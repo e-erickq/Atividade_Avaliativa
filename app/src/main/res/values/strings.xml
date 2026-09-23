@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Atividade_Avaliativa</string>
+    <string name="configurar_btn">Settings</string>
+    <string name="sair_btn">Exit</string>
+    <string name="name_editTxt">Admin</string>
+    <string name="sexto_txt">Gender</string>
+    <string name="male_radiobtn">Male</string>
+    <string name="female_radioBtn">Female</string>
+    <string name="hipolipidia_checkBx">Low-fat</string>
+    <string name="hipoglicidica_checkBx">Low-carb</string>
+    <string name="semglutem_checkBx">Gluten-free</string>
+    <string name="dieta_txt">Diet</string>
+    <string name="confirmar_btn">Confirm</string>
+    <string name="cancelar_btn">Cancel</string>
+</resources>
